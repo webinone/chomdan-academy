@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chomdan-academy.iml" filepath="$PROJECT_DIR$/.idea/modules/chomdan-academy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-api.iml" filepath="$PROJECT_DIR$/.idea/modules/module-api.iml" group="module-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-api/module-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-api/module-api_main.iml" group="module-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-api/module-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-api/module-api_test.iml" group="module-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-biz.iml" filepath="$PROJECT_DIR$/.idea/modules/module-biz.iml" group="module-biz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-biz/module-biz_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-biz/module-biz_main.iml" group="module-biz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-biz/module-biz_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-biz/module-biz_test.iml" group="module-biz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-shared.iml" filepath="$PROJECT_DIR$/.idea/modules/module-shared.iml" group="module-shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-shared/module-shared_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module-shared/module-shared_main.iml" group="module-shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module-shared/module-shared_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module-shared/module-shared_test.iml" group="module-shared" />
+    </modules>
+  </component>
+</project>
